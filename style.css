@@ -1,0 +1,45 @@
+﻿body
+{
+	background-color: black;
+	background-image: url("Matix.jpg");
+	font-family: Helvetica;
+	font-size: 14px;
+	color: azure;
+
+}
+
+h1
+{
+	text-align: center;
+	font-size: 48px;
+}
+
+p
+{
+	width:45%; 
+}
+
+h1,h2
+{
+	color: darkseagreen;
+}
+
+h4
+{
+	color:crimson;
+}
+a:link
+{
+	color: burluwood;
+}
+
+a:visited
+{
+	color: burlywood;
+}
+
+a:hover
+{
+	color: crimson;
+}
+
